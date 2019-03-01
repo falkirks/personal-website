@@ -1,6 +1,6 @@
 layout: sidebar
 style: light
-
+url: "https://noa.dev"
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
