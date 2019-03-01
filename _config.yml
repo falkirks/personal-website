@@ -10,6 +10,12 @@ permalink: /:year/:month/:day/:title/
 repositories: 
   - MineReset
   - SimpleWarp
+  - mcpeme
+  - lecture-buddy
+  - vanfringe-browser
+  - pairr
+  - nofear
+  - cw
 
 defaults:
   -
