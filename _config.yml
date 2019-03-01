@@ -7,6 +7,10 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 
+repositories: 
+  - MineReset
+  - SimpleWarp
+
 defaults:
   -
     scope:
