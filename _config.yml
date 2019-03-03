@@ -16,6 +16,7 @@ repositories:
   - pairr
   - nofear
   - cw
+  - more-options
 
 defaults:
   -
